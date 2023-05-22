@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itsdanli
-- 👀 I’m interested in trading, data science and software engineering
+- 👀 I’m interested in trading, data science and product development.
 - 🌱 I’m currently learning python, R and SQL
 
 <!---
